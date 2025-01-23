@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mkl</string>
+    <string name="pastel">pastel</string>
+    <string name="scotland_house">scotland house</string>
+    <string name="scotland_plain">scotland plain</string>
+    <string name="dncm_sky">blue sky</string>
+    <string name="dncm_girl">girl with a camera</string>
+
+</resources>
