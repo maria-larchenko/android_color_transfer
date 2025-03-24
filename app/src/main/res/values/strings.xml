@@ -5,5 +5,5 @@
     <string name="scotland_plain">scotland plain</string>
     <string name="dncm_sky">blue sky</string>
     <string name="dncm_girl">girl with a camera</string>
-
+    <string name="user_target_image">style image loaded by user</string>
 </resources>

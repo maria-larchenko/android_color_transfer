@@ -74,7 +74,6 @@ dependencies {
 
 //    implementation(libs.ndarray)
 //    implementation(libs.litert.api)
-
 //    implementation(libs.litert)
 //    implementation `com.google.ai.edge.litert:litert:1.0.1`
 }
