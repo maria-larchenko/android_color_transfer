@@ -101,7 +101,7 @@ fun ImageCard(image: TargetImage, selected: Boolean, modifier: Modifier = Modifi
 fun UserImageCard(image: UserTargetImage, selected: Boolean, modifier: Modifier = Modifier) {
     var border: BorderStroke? = null
     if (selected) {
-        border = BorderStroke(6.dp, Color.White)
+        border = BorderStroke(5.dp, MaterialTheme.colorScheme.onSurface)
     }
     Card(modifier = modifier, border = border) {
         Image(

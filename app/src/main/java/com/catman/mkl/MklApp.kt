@@ -103,7 +103,7 @@ fun MklApp() {
         Surface(
             modifier = Modifier
                 .fillMaxSize()
-                .statusBarsPadding()
+//                .statusBarsPadding()
                 .padding(
                     start = WindowInsets.safeDrawing
                         .asPaddingValues()
@@ -112,7 +112,7 @@ fun MklApp() {
                         .asPaddingValues()
                         .calculateEndPadding(layoutDirection),
                 ),
-            color = MaterialTheme.colorScheme.surfaceBright
+            color = MaterialTheme.colorScheme.surface
         ) {
             Column(
                 modifier = Modifier
