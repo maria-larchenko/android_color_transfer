@@ -6,6 +6,16 @@ Application was tested on Android 12+ devices and currenty supports only portrai
 Please use this instruction to run the app on the emulator and for connecting your physical Android device
 https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app
 
+<p align="center">
+     <img src="./screenshots/app_main.png" style="width: 512px"/>
+</p>
+
+## Dark and Light Themes
+
+<p align="center">
+     <img src="./screenshots/app_themes.png" style="width: 512px"/>
+</p>
+
 ## Citation
 For citing the original work use:
 ```
